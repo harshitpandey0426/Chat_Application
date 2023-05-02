@@ -1,4 +1,4 @@
-# Chat_Application
+# Chat Application
 A chat Application using Apache Kafka
 
 Chat application is build using Apcahe kafka standard producer consumer functions.
